@@ -1,0 +1,33 @@
+.body{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 80vh;
+}
+.slide{
+    display: flex;
+}
+.class{
+    display: flex;
+}
+.frame{
+    gap: 30px;
+height: 500px;
+width: 800px;
+overflow: hidden;
+}
+
+.slide img {
+    height: 500px;
+    width: 800px;
+    object-fit: cover;
+}
+
+#e{
+    width: 2332px;
+}
+
+#f{
+    width: 24342px;
+    zoom: 1.1;
+}
